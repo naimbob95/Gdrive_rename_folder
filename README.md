@@ -15,7 +15,7 @@
 2. Click New and create the spreadsheet.
 3. Navigate to Tools -> Script Editor</br><br>
 ![Screenshot_3](https://user-images.githubusercontent.com/13710927/99679695-3286aa00-2ab7-11eb-928d-29359a4b63e2.png) <br>
-4. Copy the the code in **"renameFile.js"** from this repo and replace the code in *code .gs*
+4. Copy the the code in **"Gdriverenamefolder.js"** from this repo and replace the code in *code .gs*
 5. Click the play button to run the code.<br><br>
 ![Screenshot_4](https://user-images.githubusercontent.com/13710927/99679752-43372000-2ab7-11eb-9096-77f1750e7992.png)
 
