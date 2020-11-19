@@ -35,7 +35,7 @@ eg: ->Works<br>
 ~~~sh
 var rootFolder = DriveApp.getFoldersByName("Works").next();
 var subfolder1 = rootFolder.getFoldersByName("Programming").next();
-var subfolder2 = subfolder1.getFoldersByName("Programming").next();
+var subfolder2 = subfolder1.getFoldersByName("Javascript").next();
 ~~~
 
 ii) To get all the name that need to rename:
