@@ -22,7 +22,7 @@
 
 <br><br><br>
 
-### To understand the code:
+### Explanation of the code:
 i) To get the directory first:
 
 > The code Below is about to get folder by name. you must understand your directory first. If you want to rename all the folder in the lowest subdirectory, it should be the same as example below:<br>
