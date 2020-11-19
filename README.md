@@ -62,7 +62,7 @@ if (oldName.indexOf('[') > -1) {
 
 <br>
 
-**You can set this script as cronjob/scheduler to run daily or every minute. You can search cronjob google apps script.**
+**You can use cronjob/scheduler to run daily or every minute. You can search cronjob google apps script.**
 
 
 
